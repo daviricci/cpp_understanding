@@ -1,0 +1,6 @@
+bq
+rel XYZ
+di
+re B1
+re l
+re l
